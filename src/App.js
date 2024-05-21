@@ -9,8 +9,6 @@ import OurAchivmentsPage from "./Componets/Pages/OurAchivmentsPage";
 import BlogPage from "./Componets/Pages/BlogPage";
 import DateTime from "./Componets/Pages/ToStartUpPage";
 import WebAgency from "./Componets/Pages/OurWebAgencyPage";
-import UtilitiesSlider from "./Componets/UtilitiesSlider/UtilitiesSlider";
-import IntroSlider from "./Componets/UtilitiesSlider/IntroSlider";
 function App() {
   return (
     <Router>
