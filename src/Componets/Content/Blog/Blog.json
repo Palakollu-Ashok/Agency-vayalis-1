@@ -1,0 +1,32 @@
+{
+  "list": [
+    {
+      "bannerImg": "/assets/Blog/1.webp",
+      "title": "The 8 Differences Between a Good and Bad Developer",
+      "time": "50",
+      "description": "In the vast world of web development, the distinction between a good developer and a bad developer can often seem blurry,…",
+      "date": "MARCH 22, 2024"
+    },
+    {
+      "bannerImg": "/assets/Blog/2.webp",
+      "title": "6 steps to migrate your WordPress site",
+      "time": "100",
+      "description": "Have you ever considered migrating your WordPress site, but just thinking about all the technical details makes you…",
+      "date": "SEPTEMBER 21, 2023"
+    },
+    {
+      "bannerImg": "/assets/Blog/3.webp",
+      "title": "The 20 best practices for securing your WordPress site",
+      "time": "150",
+      "description": "The digital age has brought a wave of exciting innovations, but also its share of challenges. Among these challenges, the security of…",
+      "date": "JULY 9, 2023"
+    },
+    {
+      "bannerImg": "/assets/Blog/4.webp",
+      "title": "8 Simple Ways to Optimize the Loading Speed ​​of Your WordPress Site",
+      "time": "200",
+      "description": "In today's super-fast world, every second counts, especially when it comes to the loading speed of a website….",
+      "date": "JULY 8, 2023"
+    }
+  ]
+}

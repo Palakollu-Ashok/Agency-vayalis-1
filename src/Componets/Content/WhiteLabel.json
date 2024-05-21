@@ -1,0 +1,30 @@
+{
+  "BannerImg": "/assets/Home/WhiteLabel/equipe-1.webp",
+
+  "list": [
+    {
+      "id": 1,
+      "title": "Vayalis Agency, For a Stunning Website!",
+      "time": "50",
+      "decription": "At Vayalis, we shape the future of digital with cutting-edge solutions, designed to captivate and focused on user needs. Our heart beats to the rhythm of innovation, and each project is a new adventure towards excellence."
+    },
+    {
+      "decription": "Driven by an insatiable curiosity for the latest technological breakthroughs and market developments, we are determined to offer you cutting-edge innovations and tailor-made strategies, perfectly aligned with the grandeur of your vision.",
+      "time": "100"
+    },
+    {
+      "Subheading": "Our Methodology:",
+      "time": "150",
+      "decription": " A proven process that ensures the success of your projects, from ideation to delivery, with a focus on agility, transparency and close collaboration."
+    },
+    {
+      "Subheading": "Our Commitment:",
+      "time": "200",
+      "decription": "As web artisans, we are personally engaged in each project, leveraging our extensive expertise and unique approach to transform your ideas into exceptional digital realities."
+    },
+    {
+      "decription": "Immerse yourself with the Vayalis web agency in a digital adventure where your ideas come to life with brilliance, precision and innovation. Together, let's explore the endless possibilities that digital has in store for us for the creation of your future website.",
+      "time": "250"
+    }
+  ]
+}

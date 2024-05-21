@@ -1,0 +1,38 @@
+{
+  "BannerImg": "/assets/Home/Slider/1.webp",
+  "heading": "LPL",
+  "description": "Interactions Between light and matter",
+  "icon": "See the project",
+  "list": [
+    {
+      "BannerImg": "/assets/Home/Slider/1.webp",
+      "heading": "LPL",
+      "description": "Interactions Between light and matter",
+      "icon": "See the project"
+    },
+    {
+      "BannerImg": "/assets/Home/Slider/2.webp",
+      "heading": "Unquie",
+      "description": "Specialist in electrically assisted bicycles ",
+      "icon": "See the project"
+    },
+    {
+      "BannerImg": "/assets/Home/Slider/3.webp",
+      "heading": "Riide",
+      "description": "Bicycle equipment manufacturer",
+      "icon": "See the project"
+    },
+    {
+      "BannerImg": "/assets/Home/Slider/1.webp",
+      "heading": "Dynasty",
+      "description": "A Moroccan hammam in Geneva",
+      "icon": "See the project"
+    },
+    {
+      "BannerImg": "/assets/Home/Slider/2.webp",
+      "heading": "Nutrition & Oncology",
+      "description": "Health benefits of nutrition",
+      "icon": "See the project"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "heading": "BREATHTAKING PERFORMANCE",
+  "title": "Optimized Excellence",
+  "desc": "Our pride ? Scores around 95/100 on Google Page Insight for the following aspects. Curious ? Test our site and see for yourself.",
+  "list": [
+    {
+      "bannerImg": "/assets/SiteCreation/BreathTaking/speedometer.svg",
+
+      "title": "Lightning Speed",
+      "time": "50",
+      "description": "Dazzling speed. Your site won't just load quickly; it will almost anticipate your clicks."
+    },
+    {
+      "bannerImg": "/assets/SiteCreation/BreathTaking/accessibility.svg",
+      "title": "Web accessibility",
+      "time": "100",
+
+      "description": "No barriers. Your site is a wide open door, welcoming every visitor with ease."
+    },
+
+    {
+      "bannerImg": "/assets/SiteCreation/BreathTaking/highquality.svg",
+      "title": "Master Coding",
+      "time": "150",
+
+      "description": "Irrefutable proof of our technical mastery and the superior quality of your site."
+    },
+    {
+      "bannerImg": "/assets/SiteCreation/BreathTaking/verify.svg",
+      "title": "Advanced WordPress SEO",
+      "time": "200",
+      "description": "The essential pillar to stand out on the web. With us, reach the heights of natural referencing."
+    }
+  ]
+}

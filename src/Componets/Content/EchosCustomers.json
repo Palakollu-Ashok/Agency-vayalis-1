@@ -1,0 +1,41 @@
+{
+  "heading": "FIND OUT WHAT OUR CUSTOMERS SAY ABOUT US",
+  "title": "Echoes from our Customers",
+  "list": [
+    {
+      "decsription": "After a meeting to discuss our needs for Dynastie, Nicolas was very attentive and was able to transcribe our vision in order to create a unique site that embodies elegance, well-being and luxury. The site combines refined aesthetics and functionality, offering an exceptional user experience to highlight Dynastie's high-end services. Don't hesitate to trust them.",
+      "name": "Dynastie",
+      "group": "Ibm Group"
+    },
+    {
+      "decsription": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat",
+      "name": "Ashok",
+      "group": "Wipro Group"
+    },
+    {
+      "decsription": "veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,",
+      "name": "Siva",
+      "group": "Infosys Group"
+    },
+    {
+      "decsription": "velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "name": "Pavan",
+      "group": "Nptl Group"
+    },
+    {
+      "decsription": "combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "name": "Mayuka",
+      "group": "Santoor Group"
+    },
+    {
+      "decsription": "It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of",
+      "name": "Akhi",
+      "group": "NTT Group"
+    },
+    {
+      "decsription": "typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "name": "Anji",
+      "group": "Mango Group"
+    }
+  ]
+}

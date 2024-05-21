@@ -1,0 +1,37 @@
+{
+  "heading": "ANY QUESTIONS? WE ANSWER IT!",
+  "title": "FAQ: Your Questions, Our Answers",
+  "list": [
+    {
+      "heading": "What WordPress Magic Can We Create Together?",
+      "time": "50",
+      "description": "From dazzling showcase sites to robust online stores, from vibrant blogs to sparkling portfolios, and much more… There are no limits to your imagination!"
+    },
+    {
+      "heading": "How to Initiate Our Epic Collaboration?",
+      "time": "100",
+
+      "description": "One click is enough! Express your visions and challenges directly via our contact form."
+    },
+    {
+      "heading": "Your Investment in Digital?",
+      "time": "150",
+
+      "description": "Prices vary greatly depending on the project. But to give you an idea, for a showcase site, the price is at least €2990 and an e-commerce site €3990.",
+      "description1": "Custom development? Your vision, our mission. The cost varies depending on the scale of your aspirations. Explain everything to us, and we will adjust our bow to reach your stars.",
+      "description2": "Of course, our prices are calibrated according to the nature of your project and your ambitions. Let’s discuss it and find the winning formula together!"
+    },
+    {
+      "heading": "The Client of Our Dreams?",
+      "time": "200",
+
+      "description": "YOU ! Active, committed, with a clear vision. Together, we will reach the heights of digital success."
+    },
+    {
+      "heading": "Need an Astronomical Quote?",
+      "time": "250",
+
+      "description": "Share the world of your project via the contact form . Concept exploration, development, or launch, we adjust our rockets to your celestial ambitions!"
+    }
+  ]
+}

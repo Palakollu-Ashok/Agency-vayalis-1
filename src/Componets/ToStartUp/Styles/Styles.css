@@ -1,0 +1,77 @@
+.custom-calendar {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.custom-calendar .react-calendar__navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.custom-calendar .react-calendar__navigation__label {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.custom-calendar .react-calendar__navigation__arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.custom-calendar .react-calendar__month-view {
+  margin-top: 20px;
+}
+
+.custom-calendar .react-calendar__month-view__weekdays {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+}
+
+.custom-calendar .react-calendar__month-view__weekdays__weekday {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  margin-right: 10px;
+  box-sizing: border-box;
+}
+
+.custom-calendar .react-calendar__month-view__weekdays__weekday:last-child {
+  margin-right: 0;
+}
+
+.custom-calendar .react-calendar__tile {
+  border: none !important;
+  color: inherit;
+}
+
+.custom-calendar .react-calendar__tile:enabled:hover,
+.custom-calendar .react-calendar__tile:enabled:focus {
+  border: none !important;
+}
+
+.custom-calendar .react-calendar__tile--active {
+  border: none !important;
+}
+
+.custom-calendar .react-calendar__tile--now {
+  border: none !important;
+}
+
+.custom-calendar .react-calendar__tile--active {
+  background-color: gainsboro !important;
+  border: none !important;
+}
+
+.custom-calendar .react-calendar__tile--now {
+  background-color: orangered !important;
+  border: none !important;
+}

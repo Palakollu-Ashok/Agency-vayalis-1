@@ -1,0 +1,40 @@
+{
+  "list": [
+    {
+      "bannerImg": "/assets/Maintance/wordpress.svg",
+      "time":"50",
+
+      "title": "WordPress Updates"
+      
+    },
+    {
+      "bannerImg": "/assets/Maintance/support.svg",
+      "time":"100",
+      "title": "Technical assistance"
+    },
+    {
+      "bannerImg": "/assets/Maintance/plugins.svg",
+      "time":"150",
+
+      "title": "Update Plugins"
+    },
+    {
+      "bannerImg": "/assets/Maintance/backup.svg",
+      "time":"200",
+
+      "title": "Continuous Backups"
+    },
+    {
+      "bannerImg": "/assets/Maintance/blocage.svg",
+      "time":"250",
+
+      "title": "Reinforced Security"
+    },
+    {
+      "bannerImg": "/assets/Maintance/liens-casses.svg",
+      "time":"300",
+
+      "title": "Check Broken Links"
+    }
+  ]
+}

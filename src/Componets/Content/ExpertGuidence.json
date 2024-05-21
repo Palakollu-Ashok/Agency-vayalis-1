@@ -1,0 +1,35 @@
+{
+  "heading": "Expert Guidance from A to Z",
+  "decription": "From ideation to ongoing maintenance, we are at your side. Take advantage of a post-delivery video session to easily navigate your new web space.",
+  "Img": "/assets/Home/ExpertGuidence/macbook.webp",
+  "link": "See our other benefits",
+  "list": [
+    {
+      "bannerimg": "/assets/Home/ExpertGuidence/updates.svg",
+      "title": "Impeccable updates",
+      "time": "50",
+      "description": "Your site remains impeccable with up-to-date WordPress, without the slightest hiccup."
+    },
+    {
+      "bannerimg": "/assets/Home/ExpertGuidence/2.svg",
+      "title": "Strong Backups",
+      "time": "100",
+
+      "description": "Rely on our reliable backups for complete peace of mind."
+    },
+    {
+      "bannerimg": "/assets/Home/ExpertGuidence/3.svg",
+      "title": "Fierce Cyber ​​Protection",
+      "time": "150",
+
+      "description": "With our cybersecurity monitoring, hackers are no longer a threat."
+    },
+    {
+      "bannerimg": "/assets/Home/ExpertGuidence/4.svg",
+      "title": "On-demand support",
+      "time": "200",
+
+      "description": "Problem or question? Our responsive team is there for you."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "heading": "OUR DAZZLING ACHIEVEMENTS",
+  "title": "Explore Our WordPress Masterpieces",
+  "description": "Explore the panorama of our WordPress projects, tailor-made works that stand out for their technical finesse and supreme speed. Let yourself be captivated by creations that shine with their optimizations and performances, where every detail reflects our quest for excellence.",
+  "list": [
+    {
+      "bannerImg": "/assets/OurAchivements/1.webp",
+      "title": "LPL",
+      "time": "50",
+      "description": "Interactions between light and matter"
+    },
+    {
+      "bannerImg": "/assets/OurAchivements/2.webp",
+      "title": "Unique",
+      "time": "100",
+      "description": "Specialist in electrically assisted bicycles"
+    },
+    {
+      "bannerImg": "/assets/OurAchivements/3.webp",
+      "title": "MMMS",
+      "time": "150",
+      "description": "Nutrition advice and fortified recipes"
+    },
+    {
+      "bannerImg": "/assets/OurAchivements/4.webp",
+      "title": "Nutrition & Oncology",
+      "time": "200",
+      "description": "Health benefits of nutrition"
+    },
+    {
+      "bannerImg": "/assets/OurAchivements/5.webp",
+      "title": "Riide",
+      "time": "250",
+      "description": "Bicycle equipment manufacturer"
+    },
+    {
+      "bannerImg": "/assets/OurAchivements/6.webp",
+      "title": "Sesan",
+      "time": "300",
+      "description": "Training on e-health"
+    },
+    {
+      "bannerImg": "/assets/OurAchivements/1.webp",
+      "title": "LPL",
+      "time": "350",
+      "description": "Interactions between light and matter"
+    },
+    {
+      "bannerImg": "/assets/OurAchivements/2.webp",
+      "title": "Unique",
+      "time": "400",
+      "description": "Specialist in electrically assisted bicycles"
+    },
+    {
+      "bannerImg": "/assets/OurAchivements/3.webp",
+      "title": "MMMS",
+      "time": "450",
+      "description": "Nutrition advice and fortified recipes"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "Heading": "But still…",
+  "heading": "We also work in ",
+  "strong": "white label",
+  "list": [
+    {
+      "id": 1,
+      "BannerImg": "/assets/Home/ButStill/performance.svg",
+      "title": "Performance audit plugin",
+      "time": 50
+    },
+    {
+      "id": 2,
+      "BannerImg": "/assets/Home/ButStill/plugin.svg",
+      "title": "Custom extension",
+      "time": 100
+    },
+    {
+      "id": 3,
+      "BannerImg": "/assets/Home/ButStill/e-commerce.svg",
+      "title": "E-Commerce Optimization",
+      "time": 150
+    },
+    {
+      "id": 4,
+      "BannerImg": "/assets/Home/ButStill/migration.svg",
+      "title": "Server migration",
+      "time": 200
+    },
+    {
+      "id": 5,
+      "BannerImg": "/assets/Home/ButStill/refonte.svg",
+      "title": "Site redesign ",
+      "time": 250
+    },
+    {
+      "id": 6,
+      "BannerImg": "/assets/Home/ButStill/optimisation-ordinateur.svg",
+      "title": "Optimization on computer",
+      "time": 300
+    },
+    {
+      "id": 7,
+      "BannerImg": "/assets/Home/ButStill/optimisation-mobile.svg",
+      "title": "Optimization on mobile",
+      "time": 350
+    },
+    {
+      "id": 8,
+      "BannerImg": "/assets/Home/ButStill/seo.svg",
+      "title": "Better SEO",
+      "time": 400
+    },
+    {
+      "id": 9,
+      "BannerImg": "/assets/Home/ButStill/cyber-securite.svg",
+      "title": "Advanced cybersecurity ",
+      "time": 450
+    },
+    {
+      "id": 10,
+      "BannerImg": "/assets/Home/ButStill/software.svg ",
+      "title": "Mesh API Third-party software",
+      "time": 500
+    },
+    {
+      "id": 11,
+      "BannerImg": "/assets/Home/ButStill/erreur.svg",
+      "title": "Error resolution ",
+      "time": 550
+    },
+    {
+      "id": 12,
+      "BannerImg": "/assets/Home/ButStill/404.svg",
+      "title": "Checking broken links",
+      "time": 600
+    }
+  ]
+}

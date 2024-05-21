@@ -1,0 +1,66 @@
+{
+  "title": " EACH PROJECT, A UNIQUE ODYSSEY",
+  "heading": "Our Tailored Creative Process",
+
+  "list": [
+    {
+      "id": 1,
+      "title": "Initial Dialogue",
+      "number": "01.",
+      "time": "50",
+      "bg": "#D1CCFF",
+
+      "description": "Let's immerse ourselves in your vision in an open conversation. This is the opportunity to seize your aspirations, so that together we can outline the broad outlines of your digital project. Precise advice and tailor-made strategies will be offered to you from our first discussions."
+    },
+    {
+      "id": 2,
+      "title": "Exploration and Quote",
+      "number": "02.",
+      "time": "100",
+
+      "bg": " #FFF0BD",
+
+      "description": "We dive into the heart of your project, drawing up a detailed action plan that highlights the issues and objectives. A tailor-made quote will give you perfect clarity on the scale, costs and key stages of this adventure."
+    },
+    {
+      "id": 3,
+      "title": "Development and Review",
+      "number": "03.",
+      "time": "150",
+
+      "bg": "#FFDAD3",
+
+      "description": "Creation takes shape before your eyes. We transform our shared vision into a tangible draft, ready to be refined according to your feedback, so that every detail resonates with your expectations."
+    },
+    {
+      "id": 4,
+      "title": "Construction and Testing in Preproduction",
+      "number": "04.",
+      "time": "200",
+
+      "bg": "#FDCBFF",
+
+      "description": "Your site comes to life on our servers, where it is scrutinized and tested from every angle. This crucial step ensures a flawless performance before the big reveal."
+    },
+    {
+      "id": 5,
+      "title": "Highlighting Your Project",
+      "number": "05.",
+      "time": "250",
+
+      "bg": "#FFCCCC",
+
+      "description": "The long-awaited moment: your project launches onto the web. We guide you through your site's features in a detailed session, equipping you to confidently navigate your new digital space."
+    },
+    {
+      "id": 6,
+      "title": "Ongoing Support",
+      "number": "06.",
+      "time": "300",
+
+      "bg": "#FEEDD7",
+
+      "description": "After the successful launch, we will not let you down, rest assured, you will benefit from WordPress maintenance and even after the big leap, our team remains by your side. Benefit from rigorous maintenance and responsive support so that your site continues to shine and evolve according to your ambitions."
+    }
+  ]
+}

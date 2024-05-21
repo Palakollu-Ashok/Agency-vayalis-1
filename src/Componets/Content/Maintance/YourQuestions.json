@@ -1,0 +1,31 @@
+{
+  "heading": "ADDITIONAL QUESTIONS?",
+  "title": "FAQ: Your Common Questions",
+  "list": [
+    {
+      "heading": "I don't have a WordPress site yet. Can you create one for me?",
+      "time": "50",
+      "description": "From dazzling showcase sites to robust online stores, from vibrant blogs to sparkling portfolios, and much more… There are no limits to your imagination!"
+    },
+    {
+      "heading": "Can you maintain any WordPress site?",
+      "time": "100",
+
+      "description": "One click is enough! Express your visions and challenges directly via our contact form."
+    },
+    {
+      "heading": "Why update your WordPress site?",
+      "time": "150",
+
+      "description": "Prices vary greatly depending on the project. But to give you an idea, for a showcase site, the price is at least €2990 and an e-commerce site €3990.",
+      "description1": "Custom development? Your vision, our mission. The cost varies depending on the scale of your aspirations. Explain everything to us, and we will adjust our bow to reach your stars.",
+      "description2": "Of course, our prices are calibrated according to the nature of your project and your ambitions. Let’s discuss it and find the winning formula together!"
+    },
+    {
+      "heading": "I already take care of maintenance. Can you just help me with a problem?",
+      "time": "200",
+
+      "description": "YOU ! Active, committed, with a clear vision. Together, we will reach the heights of digital success."
+    }
+  ]
+}

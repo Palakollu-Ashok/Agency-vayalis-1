@@ -1,0 +1,37 @@
+{
+  "description": "Whether your site was designed by us or not, benefit from flawless WordPress maintenance. Our unique WordPress maintenance plan suits everyone, whether you are a craftsman, independent or business, offering quality maintenance at a price that respects your budget. Benefit from a high-performance and secure website, allowing you to concentrate fully on the development of your activities.",
+  "title": "What does our WordPress Maintenance include?",
+  "bottom": "Don't leave your WordPress site unattended. Opt for our maintenance and ensure the performance, security and sustainability of your site.",
+  "list": [
+    {
+      "subheading": "Continuous updates :",
+      "time": "50",
+      "description": "Make sure your site is always up to date with the latest version of WordPress, themes and plugins, avoiding any malfunctions."
+    },
+    {
+      "subheading": "Regular backups :",
+      "time": "100",
+      "description": " Protect your data with complete backups of your site, including source files, database, images and media."
+    },
+    {
+      "subheading": "Enhanced security :",
+      "time": "150",
+      "description": " Prevent attacks with regular updates and the installation of a specific security plugin."
+    },
+    {
+      "subheading": "Increased performance :",
+      "time": "200",
+      "description": " A well-maintained site means a faster, better referenced and more compatible site."
+    },
+    {
+      "subheading": "Direct technical support :",
+      "time": "250",
+      "description": " When faced with a bug or crash, our team is your first resort for a quick and efficient resolution."
+    },
+    {
+      "subheading": "Broken link repair :",
+      "time": "300",
+      "description": " Avoid negative impacts on your SEO and user experience with our broken link detection and repair tool."
+    }
+  ]
+}

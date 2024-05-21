@@ -1,0 +1,23 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "BannerImg": "/assets/Home/Www.svg",
+      "title": "The Art of Creating Sites",
+      "time": "50",
+      "decription": "Immerse yourself in the world of Vayalis, where expertise and experience combine to shape WordPress sites of professional excellence!"
+    },
+    {
+      "BannerImg": "/assets/Home/Settings.svg",
+      "title": "WordPress Maintenance",
+      "time": "100",
+      "decription": "Free yourself from technical constraints. Focus on your ambitions while we ensure the proper functioning of your digital presence."
+    },
+    {
+      "BannerImg": "/assets/Home/Paint.svg",
+      "title": "Our Masterpieces",
+      "time": "150",
+      "decription": "Custom themes and plugins dedicated to speed and efficiency, discover the gallery of our dazzling projects."
+    }
+  ]
+}

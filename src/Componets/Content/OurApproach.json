@@ -1,0 +1,26 @@
+{
+  "heading": "UNDER OUR WING, ASSURED EXCELLENCE",
+  "title": "Our approach ? An unfailing commitment to quality from the start to the end of each project.",
+  "list": [
+    {
+      "bannerimg": "/assets/Home/OurApproach/4.svg",
+      "title": "WordPress Elite at Your Service",
+      "time": "50",
+      "description": "For more than fifteen years, we have been diving into the WordPress world, carefully choosing each collaborator for perfect synergy."
+    },
+    {
+      "bannerimg": "/assets/Home/OurApproach/2.svg",
+      "title": "Technical Excellence Guaranteed",
+      "time": "100",
+
+      "description": "Our methods align with WordPress standards of excellence and cutting-edge practices, ensuring an impeccable online presence."
+    },
+    {
+      "bannerimg": "/assets/Home/OurApproach/3.svg",
+      "title": "Arsenal Premium Tool",
+      "time": "150",
+
+      "description": "Our rigorous selection of extensions ensures a project architecture that is both robust and agile, for unprecedented digital performance."
+    }
+  ]
+}

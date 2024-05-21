@@ -1,0 +1,26 @@
+{
+  "bgimg": "/assets/SvgWave.svg",
+  "list": [
+    {
+      "title": "Boost Your Online Presence with Vayalis! A Tailor-Made Website",
+      "topbutton": "Vayalis Agency",
+
+      "description": "An absolutely unique website, designed for extraordinary results. Generate more leads, increase applications and give your brand an unforgettable aura. Discover the power of a tailor-made website, designed to excel and propel you to the top!",
+
+      "bottambutton": "Request a free audit!"
+    },
+    {
+      "title": "Sculptors of Unforgettable Digital Experiences",
+      "topbutton": "Web Agency",
+
+      "description": "Embark on a tailor-made digital odyssey. From design to SEO, including UX design and development, we shape the website of tomorrow with you. Complete support for an online presence that makes an impact.",
+      "bottambutton": "Discover our web agency"
+    },
+    {
+      "title": "Your Digital Future Starts Here: Audit, Optimization, Strategy",
+      "topbutton": "Digital Agency",
+      "description": "Diagnose your current performance, refine your technical and SEO approach, and deploy a digital strategy that resonates. Build your online success on solid and innovative foundations.",
+      "bottambutton": "Request a Dignosics"
+    }
+  ]
+}

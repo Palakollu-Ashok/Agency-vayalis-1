@@ -1,0 +1,51 @@
+{
+  "list": [
+    {
+      "img": "/assets/Webagency/1.webp",
+      "title": "Our Philosophy",
+      "time": "100",
+      "description": "In our Vayalis agency, we have embodied innovation and passion for digital since our creation in 2016. Specialists in the creation and redesign of websites, engaging content, personalized digital strategies, and SEO optimization, we have contributed to the online success of more than a hundred clients, from startups to recognized communications agencies. Based in France and Switzerland, our scope extends well beyond borders, reaching international clients and projects."
+    },
+    {
+      "img": "/assets/Webagency/2.webp",
+      "title": "Proximity and Personalization",
+      "time": "150",
+
+      "description": "Our Vayalis agency stands out for its proximity to each client. Forget automated responses: with us, a dedicated, real and passionate contact person supports you every step of the way. Our human scale promotes an in-depth understanding of your needs and challenges. Our engagement? Offer a tailor-made solution, built on listening and adaptation, so that your digital project truly reflects who you are and aspires to excellence."
+    },
+    {
+      "img": "/assets/Webagency/3.webp",
+      "title": "Reinventing the Customer Experience",
+      "time": "200",
+
+      "description": "For our agency Vayalis, user experience is at the heart of our strategy. We combine functionality and emotion to create sites that are not only beautiful and effective, but also embody the essence of your brand. Our objective? Develop your online presence in a way that makes you proud, with solutions that are consistent, useful and deeply rooted in your company values."
+    },
+    {
+      "img": "/assets/Webagency/4.webp",
+      "title": "A Team of Dedicated Experts",
+      "time": "250",
+
+      "description": "Our strength lies in our multidisciplinary and passionate team. With skills covering project management, UX design, web development , and SEO, we work closely to realize your digital ambitions. Whether to launch a platform, optimize your e-commerce, or create innovative marketing tools, our team does everything possible to ensure your success."
+    },
+    {
+      "img": "/assets/Webagency/5.webp",
+      "title": "Who are we ?",
+      "time": "300",
+
+      "description": "We are Vayalis: a compact but powerful team, led by Nicolas Lecocq, founder and full-stack developer. Alongside her, an administrative and HR manager who forms the backbone of our structure, a creative graphic designer bringing our aesthetic vision to life, and a front-end developer specialized in creating intuitive and engaging user interfaces."
+    },
+    {
+      "img": "/assets/Webagency/6.webp",
+      "title": "What We Offer",
+      "time": "350",
+
+      "description": "With our experience, we master the WordPress ecosystem from every angle. From the creation of sites to their SEO optimization, including custom development and security, we pay attention to every detail to guarantee performance, accessibility and impact. Our hosting and domain name advice is the icing on the cake."
+    },
+    {
+      "img": "/assets/Webagency/7.webp",
+      "title": "Why Choose Our Vayalis Agency?",
+      "time": "400",
+      "description": "More than an agency, Vayalis is a traveling companion in your digital adventure. With over 15 years of experience, a project entrusted to Vayalis is a project destined to shine. Let's talk about your ideas together and bring them to life, step by step, with expertise and passion. "
+    }
+  ]
+}

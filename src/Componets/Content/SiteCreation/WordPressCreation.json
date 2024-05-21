@@ -1,0 +1,40 @@
+{
+ 
+
+
+  "heading": "GET STARTED WITH A SITE READY TO SHINE?",
+  "maintitle": "Discover our WordPress website creation solutions",
+  "desc": "Immerse yourself in the Vayalis universe, where our know-how transforms your vision into spectacular WordPress sites, designed to captivate. Embark on an unparalleled digital adventure!",
+  "list": [
+    {
+      "bannerImg": "/assets/SiteCreation/WordPressCreation/rocket.svg",
+      "title": "Supersonic Optimization",
+      "description": "Each carefully written line of code transforms your site into a flash of performance. Google will appreciate it, and so will your visitors. Faster, more satisfying."
+    },
+    {
+      "bannerImg": "/assets/SiteCreation/WordPressCreation/google.svg",
+      "title": "Powerful SEO",
+      "description": "Shine on the web thanks to powerful SEO. Our WordPress sites are beacons of visibility, ensuring a significant and lasting digital footprint."
+    },
+    {
+      "bannerImg": "/assets/SiteCreation/WordPressCreation/code.svg",
+      "title": "Custom Theme",
+      "description": "For each project, a unique theme. We refine the code and adopt best practices to guarantee excellence and uniqueness to your site."
+    },
+    {
+      "bannerImg": "/assets/SiteCreation/WordPressCreation/responsive.svg",
+      "title": "Total Adaptability",
+      "description": "With mobile ascension, we ensure your site excels on all screens. Impeccable flexibility to capture every visitor."
+    },
+    {
+      "bannerImg": "/assets/SiteCreation/WordPressCreation/securite.svg",
+      "title": "Armored Security",
+      "description": "Faced with the unexpected, be calm. Our comprehensive backups watch over your site, ready to intervene in the event of a threat. Tranquility and security assured."
+    },
+    {
+      "bannerImg": "/assets/SiteCreation/WordPressCreation/wordpress-1.svg",
+      "title": "Exclusive Blocks",
+      "description": "With Gutenberg, we design unique blocks for your site. Goodbye to the superfluous, hello to quality and efficiency, for an exceptional website."
+    }
+  ]
+}
