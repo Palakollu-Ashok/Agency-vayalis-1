@@ -1,6 +1,3 @@
-[![image](https://github.com/Palakollu-Ashok/Agency-vayalis-1/assets/93772233/98a4e272-c982-4974-9e36-1e33a343f608)
-]'
-
 webSite-link(https://agency-practice.netlify.app)
 
 
