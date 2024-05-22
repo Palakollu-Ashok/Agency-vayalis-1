@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../Content/ExpertGuidence.json";
+import data from "../Content/Homepage/ExpertGuidence.json";
 import { useInView } from "react-intersection-observer";
 import { Fade } from "react-reveal";
 function ExpertGuidence() {

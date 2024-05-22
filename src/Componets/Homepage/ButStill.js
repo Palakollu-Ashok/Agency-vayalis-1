@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../Content/ButStill.json";
+import data from "../Content/Homepage/ButStill.json";
 
 import { useInView } from "react-intersection-observer";
 import { Fade } from "react-reveal";

@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../Content/WordPress.json";
+import data from "../Content/Homepage/WordPress.json";
 import { Link } from "react-router-dom";
 import { useInView } from "react-intersection-observer";
 import { Fade } from "react-reveal";

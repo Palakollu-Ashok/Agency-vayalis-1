@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../Content/OurApproach.json";
+import data from "../Content/Homepage/OurApproach.json";
 import { useInView } from "react-intersection-observer";
 import { Fade } from "react-reveal";
 function OurApproach() {

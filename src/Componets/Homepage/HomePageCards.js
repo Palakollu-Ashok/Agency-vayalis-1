@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../Content/HomePageCards.json";
+import data from "../Content/Homepage/HomePageCards.json";
 import Tilt from "react-parallax-tilt";
 import { useInView } from "react-intersection-observer";
 import { Fade } from "react-reveal";

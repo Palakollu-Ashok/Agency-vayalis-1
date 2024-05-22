@@ -3,7 +3,7 @@ import Slider from "react-slick";
 
 import { HiArrowSmRight } from "react-icons/hi";
 import { HiOutlineArrowSmLeft } from "react-icons/hi";
-import data from "../Content/EchosCustomers.json";
+import data from "../Content/Homepage/EchosCustomers.json";
 import { FaStar } from "react-icons/fa6";
 import { useInView } from "react-intersection-observer";
 import { Fade } from "react-reveal";

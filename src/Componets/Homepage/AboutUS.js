@@ -2,7 +2,7 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import data from "../../Componets/Content/About.json";
+import data from "../../Componets/Content/Homepage/About.json";
 import Bgimg from "../Images/bg.svg";
 import { IoIosArrowRoundForward } from "react-icons/io";
 

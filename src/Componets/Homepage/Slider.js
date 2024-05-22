@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import data from "../Content/Slider.json";
+import data from "../Content/Homepage/Slider.json";
 import { Link } from "react-router-dom";
 import Slider from "react-slick";
 import { useInView } from "react-intersection-observer";
